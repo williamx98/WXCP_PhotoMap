@@ -1,7 +1,7 @@
 # Lab 6 - WXCP_PhotoMap
 WXCP_PhotoMap is an app that allows the user to search for locations using the [Foursquare API](https://developer.foursquare.com/docs) and create a pin with an image annotation.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
